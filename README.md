@@ -8,7 +8,9 @@ Requirements
 
 ### Linux
 
-Currently supports Ubuntu, Linux Mint and other Debian based distributions.
+Currently supports OpenSUSE Leap 42.1
+
+Not tested on other SUSE distributions.
 
 ### Mac OS X
 
@@ -31,7 +33,7 @@ Install
 
 Run the script:
 
-    bash <(wget -qO- https://raw.githubusercontent.com/techAPJ/install-rails/master/linux)
+    bash <(wget -qO- https://raw.githubusercontent.com/kvprashant/install-rails/master/suse)
 
 ### Mac OS X
 
